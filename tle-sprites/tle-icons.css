@@ -1,0 +1,205 @@
+i.tle {
+	vertical-align: middle;
+}
+i.tle, i.tle:before {
+    width: 24px;
+    height: 24px;
+    display: inline-block
+}
+i.tle:before {
+    content: '';
+    background: url(fnt_ic_sheet.png) no-repeat 0 0;
+    background-size: 192px 192px;
+}
+i.tle.verified:before {
+	background-position: 0px 0px
+}
+i.tle.masterybox:before {
+	background-position: -24px 0px
+}
+i.tle.starbox:before {
+	background-position: -48px 0px
+}
+i.tle.timer:before {
+	background-position: -72px 0px
+}
+i.tle.coins:before {
+	background-position: -96px 0px
+}
+i.tle.context_flower:before {
+	background-position: -120px 0px
+}
+i.tle.upgradebold:before {
+	background-position: -144px 0px
+}
+i.tle.diamonds:before {
+	background-position: -168px 0px
+}
+i.tle.energy:before {
+	background-position: 0px -24px
+}
+i.tle.flowers:before {
+	background-position: -24px -24px
+}
+i.tle.tiles:before {
+	background-position: -48px -24px
+}
+i.tle.upgrade:before {
+	background-position: -72px -24px
+}
+i.tle.stars:before {
+	background-position: -96px -24px
+}
+i.tle.compasses:before {
+	background-position: -120px -24px
+}
+i.tle.storage_flower:before {
+	background-position: -144px -24px
+}
+i.tle.starbooster:before {
+	background-position: -168px -24px
+}
+i.tle.fb:before {
+	background-position: 0px -48px
+}
+i.tle.clue:before {
+	background-position: -24px -48px
+}
+i.tle.ribbon:before {
+	background-position: -48px -48px
+}
+i.tle.character-card:before {
+	background-position: -72px -48px
+}
+i.tle.video:before {
+	background-position: -96px -48px
+}
+i.tle.keys:before {
+	background-position: -120px -48px
+}
+i.tle.tips:before {
+	background-position: -144px -48px
+}
+i.tle.bird:before {
+	background-position: -168px -48px
+}
+i.tle.aviary:before {
+	background-position: 0px -72px
+}
+i.tle.members-colored:before {
+	background-position: -24px -72px
+}
+i.tle.teams:before {
+	background-position: -48px -72px
+}
+i.tle.meeting:before {
+	background-position: -72px -72px
+}
+i.tle.plant:before {
+	background-position: -96px -72px
+}
+i.tle.material-common:before {
+	background-position: -120px -72px
+}
+i.tle.material-uncommon:before {
+	background-position: -144px -72px
+}
+i.tle.material-rare:before {
+	background-position: -168px -72px
+}
+i.tle.chest-common:before {
+	background-position: 0px -96px
+}
+i.tle.chest-rare:before {
+	background-position: -24px -96px
+}
+i.tle.chest-epic:before {
+	background-position: -48px -96px
+}
+i.tle.gold:before {
+	background-position: -72px -96px
+}
+i.tle.league-point:before {
+	background-position: -96px -96px
+}
+i.tle.league-points:before {
+	background-position: -120px -96px
+}
+i.tle.league-bank:before {
+	background-position: -144px -96px
+}
+i.tle.lock:before {
+	background-position: -168px -96px
+}
+i.tle.hint:before {
+	background-position: 0px -120px
+}
+i.tle.arrow:before {
+	background-position: -24px -120px
+}
+i.tle.pack1:before {
+	background-position: -48px -120px
+}
+i.tle.pack2:before {
+	background-position: -72px -120px
+}
+i.tle.pack3:before {
+	background-position: -96px -120px
+}
+i.tle.pack4:before {
+	background-position: -120px -120px
+}
+i.tle.pack5:before {
+	background-position: -144px -120px
+}
+i.tle.dejavu:before {
+	background-position: -168px -120px
+}
+i.tle.snippet:before {
+	background-position: 0px -144px
+}
+i.tle.wildcard:before {
+	background-position: -24px -144px
+}
+i.tle.snippet_flat:before {
+	background-position: -48px -144px
+}
+i.tle.snippetrarity:before {
+	background-position: -72px -144px
+}
+i.tle.ticket_simple:before {
+	background-position: -96px -144px
+}
+i.tle.ticket:before {
+	background-position: -120px -144px
+}
+i.tle.mysterypiece:before {
+	background-position: -144px -144px
+}
+i.tle.brick:before {
+	background-position: -168px -144px
+}
+i.tle.copper:before {
+	background-position: 0px -168px
+}
+i.tle.glass:before {
+	background-position: -24px -168px
+}
+i.tle.hammer:before {
+	background-position: -48px -168px
+}
+i.tle.marble:before {
+	background-position: -72px -168px
+}
+i.tle.paint:before {
+	background-position: -96px -168px
+}
+i.tle.porcelain:before {
+	background-position: -120px -168px
+}
+i.tle.terracotta:before {
+	background-position: -144px -168px
+}
+i.tle.wood:before {
+	background-position: -168px -168px
+}

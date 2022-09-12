@@ -1,0 +1,160 @@
+/* Google Fonts*/
+
+
+/* Game Styling */
+@font-face {
+	font-family: 'Solomon Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: url("fonts/Solomon Sans Normal.woff") format('woff');
+}
+@font-face {
+	font-family: 'Solomon Sans';
+	font-style: normal;
+	font-weight: 600;
+	src: url("fonts/Solomon Sans Bold.woff") format('woff');
+}
+:root {
+	--primary: #33405c;
+	--secondary: #222a3c;
+}
+body {
+    font-family: 'Solomon Sans', 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', sans-serif;
+    font-size: 20px;
+	background: var(--secondary);
+	color: #eee;
+	margin: 0;
+}
+.holder {
+	min-width: 700px;
+	max-width: 900px;
+	margin: auto;
+}
+.player-name {
+	font-size: 24px;
+}
+.info-header {
+	font-size: 20px;
+	color: #f7ce25;
+	display: flex;
+	justify-content: space-between;
+	width: 75%;
+	margin-top: 2px;
+}
+.info-header > * {
+	color: #cfcfcf;
+}
+.detail-header {
+	width: 75%;
+	min-width: 300px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.detail-header .tle {
+	margin-top: -3px;
+	padding-right: 4px;
+}
+.info-head {
+	margin: 10px;
+	padding: 10px;
+	background: var(--primary);
+	border-radius: 5px;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.info-category, .info-list {
+	display: grid;
+	text-align: left;
+	grid-auto-flow: row;
+	row-gap: 10px;
+	column-gap: 30px;
+	grid-template-columns: repeat(4, 1fr);
+	margin: 10px;
+	padding: 10px;
+	background: var(--primary);
+	border-radius: 5px;
+}
+.info-category > span, .info-list > span {
+	vertical-align: middle;
+	display: flex;
+}
+.info-category .tle {
+	padding-right: 4px;
+}
+
+.info-table {
+	display: grid;
+	text-align: left;
+	grid-auto-flow: row;
+	row-gap: 10px;
+	column-gap: 10px;
+	grid-template-columns: repeat(2, 1fr);
+	margin: 10px;
+	padding: 10px;
+	background: var(--primary);
+	border-radius: 5px;
+}
+.info-table > span {
+	vertical-align: middle;
+	display: flex;
+	padding-left: 10px;
+	align-items: center;
+	background: #0000001f;
+	border-radius: 5px;
+	padding: 3px;
+}
+.info-table img {
+	max-height: 60px;
+	max-width: 60px;
+}
+.info-table .item-img {
+	width: 120px;
+	display: flex;
+	justify-content: center;
+}
+.info-table .item-details {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	padding-right: 10px;
+}
+
+.info-grid > div {
+	position: relative;
+}
+.info-category, .info-list, .info-table {
+	margin-top: 40px;
+	border-top-left-radius: 0;
+}
+.category-title {
+	position: absolute;
+	top: -30px;
+	left: 0;
+	background: var(--primary);
+	border-radius: 5px 5px 0 0;
+	padding: 5px;
+	color: #f7ce25;
+}
+
+.info-list .drink-img {
+	max-height: 80px;
+	max-width: 80px;
+}
+.info-list .avatar-img {
+	max-height: 80px;
+	max-width: 80px;
+}
+
+.img-list > span {
+	width: 80px;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+}
+.img-list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
