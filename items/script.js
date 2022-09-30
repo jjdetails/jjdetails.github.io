@@ -7,7 +7,7 @@ content += "<div class=\"category-title\">Items</div>"
 
 for (let item of ITEMS) {
 	content += `<span>
-		<span class='item-img'><img src="items/${item.id}.webp" loading="lazy"></span>
+		<span class='item-img'><img src="/items/${item.id}.webp" loading="lazy"></span>
 		<span class='item-details'><span>${item.n}</span><span></span></span>
 	</span>`
 }
