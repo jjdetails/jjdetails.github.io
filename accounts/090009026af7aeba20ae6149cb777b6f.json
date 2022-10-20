@@ -1,0 +1,79 @@
+{
+  "profile": {
+    "Flowers": 492230,
+    "Level": 1475,
+    "Stars": 6925,
+    "Created": "October 2022",
+    "Progress": "V.6 Ch.32"
+  },
+  "currency": {
+    "Coins": 749316,
+    "Diamonds": 5394,
+    "Compass": 1,
+    "Déjà Vu Tokens": 0,
+    "Energy": 88643
+  },
+  "materials": {
+    "Terracotta": 999,
+    "Glass": 999,
+    "Copper": 999,
+    "Marble": 999,
+    "Brick": 995,
+    "Paint": 999,
+    "Hammer": 995,
+    "Wood": 995,
+    "Porcelain": 999
+  },
+  "chests": {
+    "Star Box": 5540,
+    "5-Star Box": 1384
+  },
+  "beauty": [],
+  "packs": {},
+  "items": [
+    {
+      "id": 3059,
+      "n": "Autumnal Bouquet",
+      "a": 1
+    },
+    {
+      "id": 557,
+      "n": "Fire Engine",
+      "a": 205
+    },
+    {
+      "id": 3041,
+      "n": "Ode to Icarus",
+      "a": 1
+    },
+    {
+      "id": 458,
+      "n": "Pink Flowers",
+      "a": 2
+    },
+    {
+      "id": 485,
+      "n": "Poseidon",
+      "a": 1
+    },
+    {
+      "id": 3006,
+      "n": "Prize-Winning Planter",
+      "a": 1
+    },
+    {
+      "id": 3040,
+      "n": "Resplendent Roses",
+      "a": 1
+    },
+    {
+      "id": 3039,
+      "n": "Sunflower Sensation",
+      "a": 1
+    }
+  ],
+  "avatars": [],
+  "drinks": [
+    1
+  ]
+}
