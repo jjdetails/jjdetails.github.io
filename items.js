@@ -2105,6 +2105,41 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 1439,
+    "n": "Cozy Coop",
+    "a": 1
+  },
+  {
+    "id": 1440,
+    "n": "Picking Poppies",
+    "a": 1
+  },
+  {
+    "id": 1441,
+    "n": "Feeling Peckish",
+    "a": 1
+  },
+  {
+    "id": 1442,
+    "n": "Rustic Water Tower",
+    "a": 1
+  },
+  {
+    "id": 1443,
+    "n": "Magnificent Maple",
+    "a": 1
+  },
+  {
+    "id": 1444,
+    "n": "Autumn Market Stall",
+    "a": 1
+  },
+  {
+    "id": 1445,
+    "n": "Poppy Field",
+    "a": 1
+  },
+  {
     "id": 1500,
     "n": "Santa Claus",
     "a": 1
@@ -4482,6 +4517,26 @@ const ITEMS = [
   {
     "id": 3135,
     "n": "Plethora of Puppies",
+    "a": 1
+  },
+  {
+    "id": 3136,
+    "n": "Knittin' with Kitten",
+    "a": 1
+  },
+  {
+    "id": 3137,
+    "n": "Swirls of Folklorico",
+    "a": 1
+  },
+  {
+    "id": 3138,
+    "n": "Bunny Bonanza",
+    "a": 1
+  },
+  {
+    "id": 3139,
+    "n": "Turkey in the Straw",
     "a": 1
   },
   {
