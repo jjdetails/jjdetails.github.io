@@ -2425,6 +2425,51 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 1629,
+    "n": "Twinkling Town Hall",
+    "a": 1
+  },
+  {
+    "id": 1630,
+    "n": "Festive Square",
+    "a": 1
+  },
+  {
+    "id": 1631,
+    "n": "Yuletide Shopping",
+    "a": 1
+  },
+  {
+    "id": 1632,
+    "n": "Lighting Lamps",
+    "a": 1
+  },
+  {
+    "id": 1633,
+    "n": "Cozy Cottage",
+    "a": 1
+  },
+  {
+    "id": 1634,
+    "n": "Frosty Car",
+    "a": 1
+  },
+  {
+    "id": 1635,
+    "n": "Snowy Streetlamp",
+    "a": 1
+  },
+  {
+    "id": 1636,
+    "n": "Chilly Cobblestones",
+    "a": 1
+  },
+  {
+    "id": 1637,
+    "n": "Icy Fountain",
+    "a": 1
+  },
+  {
     "id": 1700,
     "n": "Chocolaterie",
     "a": 1
@@ -3432,6 +3477,46 @@ const ITEMS = [
   {
     "id": 2320,
     "n": "Studio Hangar",
+    "a": 1
+  },
+  {
+    "id": 2321,
+    "n": "Pulling a Stunt",
+    "a": 1
+  },
+  {
+    "id": 2322,
+    "n": "Rainy Romance",
+    "a": 1
+  },
+  {
+    "id": 2323,
+    "n": "Dragon's Den",
+    "a": 1
+  },
+  {
+    "id": 2324,
+    "n": "Weighed Down",
+    "a": 1
+  },
+  {
+    "id": 2325,
+    "n": "Mini Metropolis",
+    "a": 1
+  },
+  {
+    "id": 2326,
+    "n": "Prop Parlor",
+    "a": 1
+  },
+  {
+    "id": 2327,
+    "n": "Shelved Ideas",
+    "a": 1
+  },
+  {
+    "id": 2328,
+    "n": "Fake Foliage",
     "a": 1
   },
   {
@@ -4540,6 +4625,21 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3140,
+    "n": "Winter Wandering",
+    "a": 1
+  },
+  {
+    "id": 3141,
+    "n": "Fiery Fun",
+    "a": 1
+  },
+  {
+    "id": 3142,
+    "n": "Gifts for All",
+    "a": 1
+  },
+  {
     "id": 3143,
     "n": "Merry Meeting",
     "a": 1
@@ -4572,6 +4672,26 @@ const ITEMS = [
   {
     "id": 3149,
     "n": "Golden Seating",
+    "a": 1
+  },
+  {
+    "id": 3150,
+    "n": "Rodeo Railroad",
+    "a": 1
+  },
+  {
+    "id": 3151,
+    "n": "Musical Number",
+    "a": 1
+  },
+  {
+    "id": 3152,
+    "n": "Climbing Koalas",
+    "a": 1
+  },
+  {
+    "id": 3153,
+    "n": "Gentle Giraffes",
     "a": 1
   },
   {
@@ -4817,6 +4937,11 @@ const ITEMS = [
   {
     "id": 4107,
     "n": "Leafy Bush",
+    "a": 1
+  },
+  {
+    "id": 4108,
+    "n": "Red Carpet Stardom",
     "a": 1
   },
   {
