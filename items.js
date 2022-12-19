@@ -4695,6 +4695,16 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3154,
+    "n": "Year of the Rabbit",
+    "a": 1
+  },
+  {
+    "id": 3163,
+    "n": "Daisy\u2019s Discovery",
+    "a": 1
+  },
+  {
     "id": 3164,
     "n": "Detective Danielle",
     "a": 1
@@ -4907,6 +4917,141 @@ const ITEMS = [
   {
     "id": 4039,
     "n": "Sherlock's Luck",
+    "a": 1
+  },
+  {
+    "id": 4040,
+    "n": "Private Eye's Orrery",
+    "a": 1
+  },
+  {
+    "id": 4041,
+    "n": "Ace's Orrery",
+    "a": 1
+  },
+  {
+    "id": 4042,
+    "n": "Sherlock's Orrery",
+    "a": 1
+  },
+  {
+    "id": 4043,
+    "n": "Private Eye's Sextant",
+    "a": 1
+  },
+  {
+    "id": 4044,
+    "n": "Ace's Sextant",
+    "a": 1
+  },
+  {
+    "id": 4045,
+    "n": "Sherlock's Sextant",
+    "a": 1
+  },
+  {
+    "id": 4046,
+    "n": "Private Eye's Harp",
+    "a": 1
+  },
+  {
+    "id": 4047,
+    "n": "Ace's Harp",
+    "a": 1
+  },
+  {
+    "id": 4048,
+    "n": "Sherlock's Harp",
+    "a": 1
+  },
+  {
+    "id": 4049,
+    "n": "Private Eye's Octopus",
+    "a": 1
+  },
+  {
+    "id": 4050,
+    "n": "Ace's Octopus",
+    "a": 1
+  },
+  {
+    "id": 4051,
+    "n": "Sherlock's Octopus",
+    "a": 1
+  },
+  {
+    "id": 4052,
+    "n": "Private Eye's Feather",
+    "a": 1
+  },
+  {
+    "id": 4053,
+    "n": "Ace's Feather",
+    "a": 1
+  },
+  {
+    "id": 4054,
+    "n": "Sherlock's Feather",
+    "a": 1
+  },
+  {
+    "id": 4055,
+    "n": "Private Eye's Elephant",
+    "a": 1
+  },
+  {
+    "id": 4056,
+    "n": "Ace's Elephant",
+    "a": 1
+  },
+  {
+    "id": 4057,
+    "n": "Sherlock's Elephant",
+    "a": 1
+  },
+  {
+    "id": 4058,
+    "n": "Private Eye's Crown",
+    "a": 1
+  },
+  {
+    "id": 4059,
+    "n": "Ace's Crown",
+    "a": 1
+  },
+  {
+    "id": 4060,
+    "n": "Sherlock's Crown",
+    "a": 1
+  },
+  {
+    "id": 4061,
+    "n": "Private Eye's Art",
+    "a": 1
+  },
+  {
+    "id": 4062,
+    "n": "Ace's Art",
+    "a": 1
+  },
+  {
+    "id": 4063,
+    "n": "Sherlock's Art",
+    "a": 1
+  },
+  {
+    "id": 4064,
+    "n": "Private Eye's Lily",
+    "a": 1
+  },
+  {
+    "id": 4065,
+    "n": "Ace's Lily",
+    "a": 1
+  },
+  {
+    "id": 4066,
+    "n": "Sherlock's Lily",
     "a": 1
   },
   {
