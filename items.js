@@ -4700,6 +4700,26 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3155,
+    "n": "Hoofed Happiness",
+    "a": 1
+  },
+  {
+    "id": 3156,
+    "n": "Rowboat Romance",
+    "a": 1
+  },
+  {
+    "id": 3157,
+    "n": "Sharing Treats",
+    "a": 1
+  },
+  {
+    "id": 3158,
+    "n": "Macaw Magnificence",
+    "a": 1
+  },
+  {
     "id": 3163,
     "n": "Daisy\u2019s Discovery",
     "a": 1
@@ -4722,6 +4742,11 @@ const ITEMS = [
   {
     "id": 3903,
     "n": "Storybook Corner",
+    "a": 1
+  },
+  {
+    "id": 3904,
+    "n": "Be-Mine Bench",
     "a": 1
   },
   {
@@ -5092,6 +5117,11 @@ const ITEMS = [
   {
     "id": 4108,
     "n": "Red Carpet Stardom",
+    "a": 1
+  },
+  {
+    "id": 4109,
+    "n": "Skating Date",
     "a": 1
   },
   {
