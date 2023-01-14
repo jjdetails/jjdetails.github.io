@@ -1,40 +1,154 @@
 {
   "profile": {
-    "Flowers": 492230,
+    "Flowers": 495866,
     "Level": 1475,
-    "Stars": 6925,
+    "Stars": 6970,
     "Created": "October 2022",
-    "Progress": "V.6 Ch.32"
+    "Progress": "V.6 Ch.35"
   },
   "currency": {
-    "Coins": 732621,
-    "Diamonds": 4687,
-    "Compass": 1,
-    "Déjà Vu Tokens": 0,
-    "Energy": 73847
+    "Coins": 215359,
+    "Diamonds": 4318,
+    "Compass": 83,
+    "Tips": 5625,
+    "Gold": 1510,
+    "Star Booster": 11,
+    "Energy": 87263
   },
   "materials": {
-    "Terracotta": 999,
-    "Glass": 999,
+    "Brick": 749,
     "Copper": 999,
+    "Glass": 997,
+    "Hammer": 844,
     "Marble": 999,
-    "Brick": 995,
-    "Paint": 999,
-    "Hammer": 995,
-    "Wood": 995,
-    "Porcelain": 999
+    "Paint": 862,
+    "Porcelain": 999,
+    "Terracotta": 997,
+    "Wood": 687
   },
   "chests": {
-    "Star Box": 5540,
-    "5-Star Box": 1384
+    "Star Box": 5542,
+    "5-Star Box": 1336
   },
   "beauty": [],
-  "packs": {},
+  "packs": {
+    "5-Star pack": 9,
+    "1-Star pack": 38,
+    "4-Star pack": 11,
+    "2-Star pack": 4,
+    "3-Star pack": 10,
+    "Reminder": 1
+  },
   "items": [
+    {
+      "id": 4035,
+      "n": "Ace's Violin",
+      "a": 1
+    },
+    {
+      "id": 575,
+      "n": "Apple Orchard",
+      "a": 1
+    },
+    {
+      "id": 1405,
+      "n": "Apple Tree",
+      "a": 1
+    },
+    {
+      "id": 1408,
+      "n": "Autumn Apiary",
+      "a": 1
+    },
+    {
+      "id": 1444,
+      "n": "Autumn Market Stall",
+      "a": 1
+    },
     {
       "id": 3059,
       "n": "Autumnal Bouquet",
       "a": 1
+    },
+    {
+      "id": 144,
+      "n": "Butterfly Bush",
+      "a": 3
+    },
+    {
+      "id": 1636,
+      "n": "Chilly Cobblestones",
+      "a": 12
+    },
+    {
+      "id": 815,
+      "n": "Cotton Candy Cart",
+      "a": 1
+    },
+    {
+      "id": 1525,
+      "n": "Cozy Chalet",
+      "a": 1
+    },
+    {
+      "id": 1439,
+      "n": "Cozy Coop",
+      "a": 2
+    },
+    {
+      "id": 1633,
+      "n": "Cozy Cottage",
+      "a": 1
+    },
+    {
+      "id": 3163,
+      "n": "Daisy’s Discovery",
+      "a": 2
+    },
+    {
+      "id": 3056,
+      "n": "Dangerous Close-Up",
+      "a": 1
+    },
+    {
+      "id": 1503,
+      "n": "Decoration Shop",
+      "a": 1
+    },
+    {
+      "id": 531,
+      "n": "Delightful Dairy",
+      "a": 1
+    },
+    {
+      "id": 1413,
+      "n": "Farm Fresh",
+      "a": 1
+    },
+    {
+      "id": 1441,
+      "n": "Feeling Peckish",
+      "a": 1
+    },
+    {
+      "id": 128,
+      "n": "Festive Shrub",
+      "a": 1
+    },
+    {
+      "id": 1630,
+      "n": "Festive Square",
+      "a": 3
+    },
+    {
+      "id": 3141,
+      "n": "Fiery Fun",
+      "a": 1
+    },
+    {
+      "id": 1528,
+      "n": "Fir Forest",
+      "a": 2
     },
     {
       "id": 557,
@@ -42,14 +156,114 @@
       "a": 205
     },
     {
+      "id": 1634,
+      "n": "Frosty Car",
+      "a": 1
+    },
+    {
+      "id": 1423,
+      "n": "Furry Farmers",
+      "a": 2
+    },
+    {
+      "id": 145,
+      "n": "Golden Bell",
+      "a": 3
+    },
+    {
+      "id": 154,
+      "n": "Golden Roses",
+      "a": 1
+    },
+    {
+      "id": 404,
+      "n": "Grass",
+      "a": 113
+    },
+    {
+      "id": 1407,
+      "n": "Harvest Bounty",
+      "a": 1
+    },
+    {
+      "id": 1628,
+      "n": "Holiday Archway",
+      "a": 1
+    },
+    {
+      "id": 161,
+      "n": "Holiday Boughs",
+      "a": 1
+    },
+    {
+      "id": 140,
+      "n": "Holly Shrub",
+      "a": 1
+    },
+    {
+      "id": 1624,
+      "n": "Home for the Holidays",
+      "a": 1
+    },
+    {
+      "id": 1411,
+      "n": "Homemade Cider",
+      "a": 1
+    },
+    {
+      "id": 1438,
+      "n": "Hospitable Homestead",
+      "a": 1
+    },
+    {
+      "id": 1637,
+      "n": "Icy Fountain",
+      "a": 2
+    },
+    {
+      "id": 1632,
+      "n": "Lighting Lamps",
+      "a": 1
+    },
+    {
+      "id": 1710,
+      "n": "Love Letter Box",
+      "a": 1
+    },
+    {
+      "id": 1443,
+      "n": "Magnificent Maple",
+      "a": 3
+    },
+    {
+      "id": 148,
+      "n": "Marmalade Bush",
+      "a": 1
+    },
+    {
       "id": 3041,
       "n": "Ode to Icarus",
       "a": 1
     },
     {
+      "id": 1440,
+      "n": "Picking Poppies",
+      "a": 3
+    },
+    {
       "id": 458,
       "n": "Pink Flowers",
       "a": 2
+    },
+    {
+      "id": 113,
+      "n": "Poinsettia",
+      "a": 1
+    },
+    {
+      "id": 1445,
+      "n": "Poppy Field",
+      "a": 8
     },
     {
       "id": 485,
@@ -62,18 +276,146 @@
       "a": 1
     },
     {
+      "id": 2326,
+      "n": "Prop Parlor",
+      "a": 1
+    },
+    {
       "id": 3040,
       "n": "Resplendent Roses",
       "a": 1
     },
     {
+      "id": 401,
+      "n": "Road",
+      "a": 16
+    },
+    {
+      "id": 1420,
+      "n": "Rustic Retreat",
+      "a": 1
+    },
+    {
+      "id": 1442,
+      "n": "Rustic Water Tower",
+      "a": 1
+    },
+    {
+      "id": 1506,
+      "n": "Santa's Reindeer",
+      "a": 1
+    },
+    {
+      "id": 135,
+      "n": "Sherlock Shrub",
+      "a": 5
+    },
+    {
+      "id": 1606,
+      "n": "Sleigh Dogs",
+      "a": 1
+    },
+    {
+      "id": 1625,
+      "n": "Snow Shoveling",
+      "a": 1
+    },
+    {
+      "id": 1513,
+      "n": "Snowy Patch",
+      "a": 11
+    },
+    {
+      "id": 1609,
+      "n": "Snowy Perch",
+      "a": 1
+    },
+    {
+      "id": 1508,
+      "n": "Snowy Pine",
+      "a": 4
+    },
+    {
+      "id": 1635,
+      "n": "Snowy Streetlamp",
+      "a": 3
+    },
+    {
+      "id": 147,
+      "n": "Spear Grass",
+      "a": 89
+    },
+    {
+      "id": 1211,
+      "n": "Stepping Stones",
+      "a": 19
+    },
+    {
+      "id": 521,
+      "n": "Sun-Kissed Tree",
+      "a": 2
+    },
+    {
       "id": 3039,
       "n": "Sunflower Sensation",
       "a": 1
+    },
+    {
+      "id": 1414,
+      "n": "Trusty Tractor",
+      "a": 2
+    },
+    {
+      "id": 1629,
+      "n": "Twinkling Town Hall",
+      "a": 1
+    },
+    {
+      "id": 1626,
+      "n": "Twinkling Tree",
+      "a": 1
+    },
+    {
+      "id": 400,
+      "n": "Water",
+      "a": 8
+    },
+    {
+      "id": 1112,
+      "n": "Waterfall Columns",
+      "a": 22
+    },
+    {
+      "id": 1627,
+      "n": "Winterberry",
+      "a": 1
+    },
+    {
+      "id": 2008,
+      "n": "Wooden Walkway",
+      "a": 19
+    },
+    {
+      "id": 1631,
+      "n": "Yuletide Shopping",
+      "a": 2
     }
   ],
-  "avatars": [],
+  "avatars": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    37
+  ],
   "drinks": [
-    1
+    1,
+    19
   ]
 }

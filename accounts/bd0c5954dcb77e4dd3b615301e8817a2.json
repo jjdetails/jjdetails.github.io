@@ -1,35 +1,35 @@
 {
   "profile": {
-    "Flowers": 426446,
-    "Level": 1325,
-    "Stars": 6514,
+    "Flowers": 432069,
+    "Level": 1340,
+    "Stars": 6583,
     "Created": "October 2019",
-    "Progress": "V.6 Ch.17"
+    "Progress": "V.6 Ch.19"
   },
   "currency": {
-    "Coins": 3898482,
-    "Diamonds": 8586,
-    "Compass": 1424,
-    "Tips": 22215,
-    "Gold": 1892,
-    "Déjà Vu Tokens": 403,
-    "Star Booster": 36,
-    "Energy": 20991
+    "Coins": 3609713,
+    "Diamonds": 7155,
+    "Compass": 1578,
+    "Tips": 63225,
+    "Gold": 5577,
+    "Déjà Vu Tokens": 1,
+    "Star Booster": 52,
+    "Energy": 38383
   },
   "materials": {
-    "Paint": 520,
-    "Marble": 214,
-    "Terracotta": 361,
-    "Porcelain": 284,
-    "Glass": 281,
-    "Hammer": 545,
-    "Wood": 830,
-    "Copper": 308,
-    "Brick": 971
+    "Brick": 982,
+    "Copper": 326,
+    "Glass": 297,
+    "Hammer": 585,
+    "Marble": 231,
+    "Paint": 538,
+    "Porcelain": 294,
+    "Terracotta": 385,
+    "Wood": 820
   },
   "chests": {
-    "Star Box": 118,
-    "5-Star Box": 210
+    "Star Box": 128,
+    "5-Star Box": 187
   },
   "beauty": [
     "Sailboat",
@@ -41,9 +41,17 @@
     "Coral Reef",
     "Fishing Boats",
     "Puffins",
-    "Beach Wedding"
+    "Beach Wedding",
+    "Orcas"
   ],
-  "packs": {},
+  "packs": {
+    "5-Star pack": 10,
+    "1-Star pack": 72,
+    "2-Star pack": 8,
+    "3-Star pack": 9,
+    "4-Star pack": 9,
+    "Reminder": 1
+  },
   "items": [
     {
       "id": 934,
@@ -101,6 +109,11 @@
       "a": 1
     },
     {
+      "id": 4035,
+      "n": "Ace's Violin",
+      "a": 1
+    },
+    {
       "id": 3144,
       "n": "Acrobatics Aloft",
       "a": 1
@@ -153,7 +166,7 @@
     {
       "id": 1934,
       "n": "Apples and Brew",
-      "a": 2
+      "a": 5
     },
     {
       "id": 2021,
@@ -183,6 +196,11 @@
     {
       "id": 1408,
       "n": "Autumn Apiary",
+      "a": 2
+    },
+    {
+      "id": 1444,
+      "n": "Autumn Market Stall",
       "a": 2
     },
     {
@@ -343,7 +361,7 @@
     {
       "id": 4102,
       "n": "Blended Blooms",
-      "a": 1
+      "a": 2
     },
     {
       "id": 1806,
@@ -398,6 +416,11 @@
     {
       "id": 500,
       "n": "Blossoming Fountain",
+      "a": 1
+    },
+    {
+      "id": 504,
+      "n": "Blossoming Nook",
       "a": 1
     },
     {
@@ -518,7 +541,7 @@
     {
       "id": 144,
       "n": "Butterfly Bush",
-      "a": 43
+      "a": 42
     },
     {
       "id": 1840,
@@ -666,6 +689,11 @@
       "a": 3
     },
     {
+      "id": 1636,
+      "n": "Chilly Cobblestones",
+      "a": 17
+    },
+    {
       "id": 3902,
       "n": "Chiseled Charger",
       "a": 1
@@ -718,7 +746,7 @@
     {
       "id": 4106,
       "n": "Column Planter",
-      "a": 1
+      "a": 2
     },
     {
       "id": 2319,
@@ -739,6 +767,11 @@
       "id": 1424,
       "n": "Corn Crop",
       "a": 7
+    },
+    {
+      "id": 815,
+      "n": "Cotton Candy Cart",
+      "a": 1
     },
     {
       "id": 800,
@@ -796,9 +829,24 @@
       "a": 1
     },
     {
+      "id": 1525,
+      "n": "Cozy Chalet",
+      "a": 1
+    },
+    {
       "id": 2607,
       "n": "Cozy Comfort",
       "a": 3
+    },
+    {
+      "id": 1439,
+      "n": "Cozy Coop",
+      "a": 4
+    },
+    {
+      "id": 1633,
+      "n": "Cozy Cottage",
+      "a": 1
     },
     {
       "id": 901,
@@ -866,6 +914,11 @@
       "a": 1
     },
     {
+      "id": 4103,
+      "n": "Dainty Dahlia",
+      "a": 1
+    },
+    {
       "id": 2221,
       "n": "Dainty Dock",
       "a": 2
@@ -876,6 +929,11 @@
       "a": 2
     },
     {
+      "id": 3163,
+      "n": "Daisy’s Discovery",
+      "a": 2
+    },
+    {
       "id": 1311,
       "n": "Dancing Calavera",
       "a": 1
@@ -883,6 +941,11 @@
     {
       "id": 1006,
       "n": "Dancing Couple",
+      "a": 1
+    },
+    {
+      "id": 3056,
+      "n": "Dangerous Close-Up",
       "a": 1
     },
     {
@@ -939,6 +1002,11 @@
       "id": 2009,
       "n": "Decked Out",
       "a": 2
+    },
+    {
+      "id": 1503,
+      "n": "Decoration Shop",
+      "a": 1
     },
     {
       "id": 3148,
@@ -1014,6 +1082,11 @@
       "id": 2115,
       "n": "Dog Lovers",
       "a": 7
+    },
+    {
+      "id": 152,
+      "n": "Doll's Eyes",
+      "a": 2
     },
     {
       "id": 2201,
@@ -1171,6 +1244,11 @@
       "a": 5
     },
     {
+      "id": 1441,
+      "n": "Feeling Peckish",
+      "a": 1
+    },
+    {
       "id": 3082,
       "n": "Feisty Alpacas",
       "a": 1
@@ -1191,8 +1269,18 @@
       "a": 1
     },
     {
+      "id": 1630,
+      "n": "Festive Square",
+      "a": 5
+    },
+    {
       "id": 3095,
       "n": "Fierce Fountain",
+      "a": 1
+    },
+    {
+      "id": 3141,
+      "n": "Fiery Fun",
       "a": 1
     },
     {
@@ -1208,7 +1296,7 @@
     {
       "id": 1528,
       "n": "Fir Forest",
-      "a": 3
+      "a": 4
     },
     {
       "id": 557,
@@ -1371,6 +1459,11 @@
       "a": 5
     },
     {
+      "id": 1634,
+      "n": "Frosty Car",
+      "a": 1
+    },
+    {
       "id": 1620,
       "n": "Frosty Fortress",
       "a": 5
@@ -1391,6 +1484,11 @@
       "a": 1
     },
     {
+      "id": 1134,
+      "n": "Fruity Feast",
+      "a": 1
+    },
+    {
       "id": 1821,
       "n": "Fun Toad Topiary",
       "a": 2
@@ -1403,6 +1501,11 @@
     {
       "id": 1423,
       "n": "Furry Farmers",
+      "a": 2
+    },
+    {
+      "id": 1931,
+      "n": "Gabled Ghost House",
       "a": 1
     },
     {
@@ -1546,11 +1649,6 @@
       "a": 1
     },
     {
-      "id": 145,
-      "n": "Golden Bell",
-      "a": 1
-    },
-    {
       "id": 3111,
       "n": "Golden Gathering",
       "a": 1
@@ -1563,6 +1661,11 @@
     {
       "id": 1033,
       "n": "Golden Glory",
+      "a": 1
+    },
+    {
+      "id": 154,
+      "n": "Golden Roses",
       "a": 1
     },
     {
@@ -1588,7 +1691,7 @@
     {
       "id": 1933,
       "n": "Gourd Glorification",
-      "a": 3
+      "a": 4
     },
     {
       "id": 1403,
@@ -1708,7 +1811,7 @@
     {
       "id": 3048,
       "n": "Harvest Cornucopia",
-      "a": 1
+      "a": 2
     },
     {
       "id": 1434,
@@ -1806,6 +1909,11 @@
       "a": 2
     },
     {
+      "id": 161,
+      "n": "Holiday Boughs",
+      "a": 1
+    },
+    {
       "id": 1135,
       "n": "Holiday Hut",
       "a": 2
@@ -1853,7 +1961,7 @@
     {
       "id": 1912,
       "n": "Hooting Hornbeam",
-      "a": 1
+      "a": 4
     },
     {
       "id": 151,
@@ -1874,6 +1982,11 @@
       "id": 841,
       "n": "Horse's Rest",
       "a": 5
+    },
+    {
+      "id": 1438,
+      "n": "Hospitable Homestead",
+      "a": 1
     },
     {
       "id": 803,
@@ -1908,11 +2021,16 @@
     {
       "id": 1430,
       "n": "I Saw That",
-      "a": 6
+      "a": 7
     },
     {
       "id": 1611,
       "n": "Ice Fishing",
+      "a": 2
+    },
+    {
+      "id": 1637,
+      "n": "Icy Fountain",
       "a": 2
     },
     {
@@ -1938,7 +2056,7 @@
     {
       "id": 120,
       "n": "Jack-O'-Lantern Bush",
-      "a": 1
+      "a": 2
     },
     {
       "id": 2421,
@@ -1983,7 +2101,7 @@
     {
       "id": 1422,
       "n": "Keeping Watch",
-      "a": 1
+      "a": 2
     },
     {
       "id": 1026,
@@ -2086,6 +2204,11 @@
       "a": 1
     },
     {
+      "id": 1632,
+      "n": "Lighting Lamps",
+      "a": 1
+    },
+    {
       "id": 2003,
       "n": "Lily Pad Paddling",
       "a": 2
@@ -2118,7 +2241,7 @@
     {
       "id": 1710,
       "n": "Love Letter Box",
-      "a": 3
+      "a": 4
     },
     {
       "id": 1709,
@@ -2221,6 +2344,11 @@
       "a": 1
     },
     {
+      "id": 1443,
+      "n": "Magnificent Maple",
+      "a": 5
+    },
+    {
       "id": 1116,
       "n": "Majestic Jaguar",
       "a": 1
@@ -2264,6 +2392,11 @@
       "id": 3083,
       "n": "Market Treats",
       "a": 1
+    },
+    {
+      "id": 148,
+      "n": "Marmalade Bush",
+      "a": 13
     },
     {
       "id": 1123,
@@ -2531,6 +2664,11 @@
       "a": 2
     },
     {
+      "id": 1200,
+      "n": "Peaceful Pagoda",
+      "a": 1
+    },
+    {
       "id": 4104,
       "n": "Peckish Pigeons",
       "a": 1
@@ -2574,6 +2712,11 @@
       "id": 708,
       "n": "Picket Gate",
       "a": 1
+    },
+    {
+      "id": 1440,
+      "n": "Picking Poppies",
+      "a": 5
     },
     {
       "id": 2105,
@@ -2681,6 +2824,11 @@
       "a": 1
     },
     {
+      "id": 1445,
+      "n": "Poppy Field",
+      "a": 8
+    },
+    {
       "id": 534,
       "n": "Poppy Patch",
       "a": 3
@@ -2743,6 +2891,11 @@
     {
       "id": 826,
       "n": "Prized Calf",
+      "a": 1
+    },
+    {
+      "id": 2326,
+      "n": "Prop Parlor",
       "a": 1
     },
     {
@@ -3006,6 +3159,16 @@
       "a": 3
     },
     {
+      "id": 1420,
+      "n": "Rustic Retreat",
+      "a": 1
+    },
+    {
+      "id": 1442,
+      "n": "Rustic Water Tower",
+      "a": 1
+    },
+    {
       "id": 561,
       "n": "Safety Patrol",
       "a": 3
@@ -3063,7 +3226,7 @@
     {
       "id": 135,
       "n": "Sherlock Shrub",
-      "a": 9
+      "a": 19
     },
     {
       "id": 4021,
@@ -3153,12 +3316,12 @@
     {
       "id": 1606,
       "n": "Sleigh Dogs",
-      "a": 1
+      "a": 2
     },
     {
       "id": 1625,
       "n": "Snow Shoveling",
-      "a": 7
+      "a": 8
     },
     {
       "id": 480,
@@ -3173,7 +3336,7 @@
     {
       "id": 1609,
       "n": "Snowy Perch",
-      "a": 1
+      "a": 2
     },
     {
       "id": 1508,
@@ -3191,6 +3354,11 @@
       "a": 3
     },
     {
+      "id": 1635,
+      "n": "Snowy Streetlamp",
+      "a": 2
+    },
+    {
       "id": 606,
       "n": "Soirée Flowerbed",
       "a": 4
@@ -3201,6 +3369,11 @@
       "a": 1
     },
     {
+      "id": 153,
+      "n": "Sorghum Bouquet",
+      "a": 1
+    },
+    {
       "id": 3147,
       "n": "Sparkling Company",
       "a": 1
@@ -3208,7 +3381,7 @@
     {
       "id": 147,
       "n": "Spear Grass",
-      "a": 71
+      "a": 147
     },
     {
       "id": 1622,
@@ -3383,7 +3556,7 @@
     {
       "id": 1602,
       "n": "Summit Cottage",
-      "a": 1
+      "a": 2
     },
     {
       "id": 1005,
@@ -3611,6 +3784,11 @@
       "a": 1
     },
     {
+      "id": 1938,
+      "n": "Tombstones",
+      "a": 3
+    },
+    {
       "id": 1106,
       "n": "Tortoise Tower",
       "a": 1
@@ -3718,12 +3896,17 @@
     {
       "id": 1414,
       "n": "Trusty Tractor",
+      "a": 2
+    },
+    {
+      "id": 1629,
+      "n": "Twinkling Town Hall",
       "a": 1
     },
     {
       "id": 1626,
       "n": "Twinkling Tree",
-      "a": 1
+      "a": 2
     },
     {
       "id": 3068,
@@ -3944,6 +4127,11 @@
       "id": 2505,
       "n": "You've Got Mail",
       "a": 5
+    },
+    {
+      "id": 1631,
+      "n": "Yuletide Shopping",
+      "a": 3
     }
   ],
   "avatars": [
@@ -3981,9 +4169,13 @@
     34,
     35,
     36,
+    37,
     39,
     40,
-    41
+    40,
+    41,
+    42,
+    43
   ],
   "drinks": [
     1,
@@ -4000,6 +4192,7 @@
     12,
     13,
     15,
-    17
+    17,
+    19
   ]
 }
