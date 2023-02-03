@@ -3240,6 +3240,46 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 2127,
+    "n": "Love on the Stage",
+    "a": 1
+  },
+  {
+    "id": 2128,
+    "n": "Piano Duet",
+    "a": 1
+  },
+  {
+    "id": 2129,
+    "n": "Rendezvous Bench",
+    "a": 1
+  },
+  {
+    "id": 2130,
+    "n": "Sunny Stroll",
+    "a": 1
+  },
+  {
+    "id": 2131,
+    "n": "Floating Fountain",
+    "a": 1
+  },
+  {
+    "id": 2132,
+    "n": "Potted Pleasures",
+    "a": 1
+  },
+  {
+    "id": 2133,
+    "n": "Spiral to Sculpture",
+    "a": 1
+  },
+  {
+    "id": 2134,
+    "n": "Stairway to Blooms",
+    "a": 1
+  },
+  {
     "id": 2200,
     "n": "Resting Hooves",
     "a": 1
@@ -3627,6 +3667,51 @@ const ITEMS = [
   {
     "id": 2421,
     "n": "Jackfruit Tree",
+    "a": 1
+  },
+  {
+    "id": 2422,
+    "n": "Marvelous Market",
+    "a": 1
+  },
+  {
+    "id": 2423,
+    "n": "Tandoor Delights",
+    "a": 1
+  },
+  {
+    "id": 2424,
+    "n": "Tantalizing Textiles",
+    "a": 1
+  },
+  {
+    "id": 2425,
+    "n": "Dabba Delivery",
+    "a": 1
+  },
+  {
+    "id": 2426,
+    "n": "Chai for All",
+    "a": 1
+  },
+  {
+    "id": 2427,
+    "n": "Golden Amaltas",
+    "a": 1
+  },
+  {
+    "id": 2428,
+    "n": "Curious Cow",
+    "a": 1
+  },
+  {
+    "id": 2429,
+    "n": "Spicy Supplies",
+    "a": 1
+  },
+  {
+    "id": 2430,
+    "n": "Sweet Libations",
     "a": 1
   },
   {
@@ -5122,6 +5207,11 @@ const ITEMS = [
   {
     "id": 4109,
     "n": "Skating Date",
+    "a": 1
+  },
+  {
+    "id": 4120,
+    "n": "Tiered Topiary",
     "a": 1
   },
   {
