@@ -11,6 +11,20 @@
 			"id": "masterybox",
 			"type": "starbox"
 		},
+		"sort": -2
+	},
+	{
+		"cost": {
+			"diamonds": 5
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
+              "amount": 5,
+              "id": "starboost",
+              "type": "consumable"
+		},
 		"sort": -1
 	}
 ]
