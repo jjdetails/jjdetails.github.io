@@ -1,7 +1,21 @@
 [
 	{
 		"cost": {
-			"diamonds": 10
+			"diamonds": 25
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
+			"amount": 10,
+			"id": "starbox",
+			"type": "starbox"
+		},
+		"sort": -4
+	},
+	{
+		"cost": {
+			"diamonds": 50
 		},
 		"id": 1,
 		"once": false,
@@ -11,19 +25,33 @@
 			"id": "masterybox",
 			"type": "starbox"
 		},
-		"sort": -2
+		"sort": -3
 	},
 	{
 		"cost": {
-			"diamonds": 5
+			"diamonds": 10
 		},
 		"id": 1,
 		"once": false,
 		"purchaseable": true,
 		"reward": {
-              "amount": 5,
-              "id": "starboost",
-              "type": "consumable"
+			"amount": 1,
+			"id": "starboost",
+			"type": "consumable"
+		},
+		"sort": -2
+	},
+	{
+		"cost": {
+			"diamonds": 100
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
+			"amount": 1000,
+			"id": "leaguepoints",
+			"type": "currency"
 		},
 		"sort": -1
 	}
