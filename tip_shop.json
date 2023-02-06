@@ -7,9 +7,9 @@
 		"once": false,
 		"purchaseable": true,
 		"reward": {
-            "amount": 1,
-            "id": "collections.pack.1.007ft.eornew",
-            "type": "collectionspack"
+			"amount": 1,
+			"id": "collections.pack.1.007ft.eornew",
+			"type": "collectionspack"
 		},
 		"sort": -9
 	},
@@ -21,9 +21,9 @@
 		"once": false,
 		"purchaseable": true,
 		"reward": {
-            "amount": 1,
-            "id": "collections.pack.2.007ft.shop",
-            "type": "collectionspack"
+			"amount": 1,
+			"id": "collections.pack.2.007ft.shop",
+			"type": "collectionspack"
 		},
 		"sort": -8
 	},
@@ -35,9 +35,9 @@
 		"once": false,
 		"purchaseable": true,
 		"reward": {
-            "amount": 1,
-            "id": "collections.pack.3.007ft.shop,
-            "type": "collectionspack"
+			"amount": 1,
+			"id": "collections.pack.3.007ft.shop",
+			"type": "collectionspack"
 		},
 		"sort": -7
 	},
@@ -49,9 +49,9 @@
 		"once": false,
 		"purchaseable": true,
 		"reward": {
-            "amount": 1,
-            "id": "collections.pack.4.007ft.shop",
-            "type": "collectionspack"
+			"amount": 1,
+			"id": "collections.pack.4.007ft.shop",
+			"type": "collectionspack"
 		},
 		"sort": -6
 	},
@@ -63,9 +63,9 @@
 		"once": false,
 		"purchaseable": true,
 		"reward": {
-            "amount": 1,
-            "id": "collections.pack.5.007ft.shop",
-            "type": "collectionspack"
+			"amount": 1,
+			"id": "collections.pack.5.007ft.shop",
+			"type": "collectionspack"
 		},
 		"sort": -5
 	},	
