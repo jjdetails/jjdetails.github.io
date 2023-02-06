@@ -5210,6 +5210,11 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 4110,
+    "n": "Ancient Horn",
+    "a": 1
+  },
+  {
     "id": 4120,
     "n": "Tiered Topiary",
     "a": 1

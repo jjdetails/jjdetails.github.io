@@ -7,6 +7,76 @@
 		"once": false,
 		"purchaseable": true,
 		"reward": {
+            "amount": 1,
+            "id": "collections.pack.1.007ft.eornew",
+            "type": "collectionspack"
+		},
+		"sort": -9
+	},
+	{
+		"cost": {
+			"diamonds": 38
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
+            "amount": 1,
+            "id": "collections.pack.2.007ft.shop",
+            "type": "collectionspack"
+		},
+		"sort": -8
+	},
+	{
+		"cost": {
+			"diamonds": 50
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
+            "amount": 1,
+            "id": "collections.pack.3.007ft.shop,
+            "type": "collectionspack"
+		},
+		"sort": -7
+	},
+	{
+		"cost": {
+			"diamonds": 75
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
+            "amount": 1,
+            "id": "collections.pack.4.007ft.shop",
+            "type": "collectionspack"
+		},
+		"sort": -6
+	},
+	{
+		"cost": {
+			"diamonds": 100
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
+            "amount": 1,
+            "id": "collections.pack.5.007ft.shop",
+            "type": "collectionspack"
+		},
+		"sort": -5
+	},	
+	{
+		"cost": {
+			"diamonds": 25
+		},
+		"id": 1,
+		"once": false,
+		"purchaseable": true,
+		"reward": {
 			"amount": 10,
 			"id": "starbox",
 			"type": "starbox"
