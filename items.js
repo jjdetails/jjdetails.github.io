@@ -4615,6 +4615,11 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3120,
+    "n": "Star Surprise",
+    "a": 1
+  },
+  {
     "id": 3121,
     "n": "Arenga Pinnata",
     "a": 1
@@ -4805,6 +4810,26 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3159,
+    "n": "Golden Harp",
+    "a": 1
+  },
+  {
+    "id": 3160,
+    "n": "Contentious Kebab",
+    "a": 1
+  },
+  {
+    "id": 3161,
+    "n": "Langurs' Guava Party",
+    "a": 1
+  },
+  {
+    "id": 3162,
+    "n": "Pedicab Pair",
+    "a": 1
+  },
+  {
     "id": 3163,
     "n": "Daisy\u2019s Discovery",
     "a": 1
@@ -4812,6 +4837,21 @@ const ITEMS = [
   {
     "id": 3164,
     "n": "Detective Danielle",
+    "a": 1
+  },
+  {
+    "id": 3502,
+    "n": "In Full Swing",
+    "a": 1
+  },
+  {
+    "id": 3503,
+    "n": "The Farewell",
+    "a": 1
+  },
+  {
+    "id": 3504,
+    "n": "Grand Station",
     "a": 1
   },
   {
