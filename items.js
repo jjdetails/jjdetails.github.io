@@ -136,13 +136,15 @@ const ITEMS = [
   },
   {
     "id": 463,
-    "n": "[wip] Bird Bath",
-    "a": 1
+    "n": "Bird Bath",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 464,
-    "n": "[wip] Ivy Column",
-    "a": 1
+    "n": "Ivy Column",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 465,
@@ -5241,8 +5243,9 @@ const ITEMS = [
   },
   {
     "id": 4108,
-    "n": "[wip] Red Carpet Stardom",
-    "a": 1
+    "n": "Red Carpet Stardom",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 4109,

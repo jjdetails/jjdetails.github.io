@@ -158,3 +158,12 @@ body {
 	flex-direction: row;
 	flex-wrap: wrap;
 }
+span.wip { position: relative }
+span.wip:after {
+    content: "[WIP]";
+    color: #f22;
+    padding-left: 4px;
+    font-size: 12px;
+    margin-top: 2px;
+    position: absolute;
+}
