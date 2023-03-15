@@ -3417,6 +3417,84 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 2227,
+    "n": "Alpine Farmhouse",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2228,
+    "n": "Water Delivery",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2229,
+    "n": "Stable Pair",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2230,
+    "n": "Meadow Beauty",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2231,
+    "n": "Relaxing with Goats",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2232,
+    "n": "Noriker Horses",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2233,
+    "n": "Refreshing Waterfall",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2234,
+    "n": "Shady Spruce Trees",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2235,
+    "n": "Anatine Parade",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2236,
+    "n": "Tree Trunk Fountain",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2237,
+    "n": "Leafy Alpine Tree",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2238,
+    "n": "Crocus Meadow",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2239,
+    "n": "Stone Meadow Fence",
+    "a": 1,
+    "wip": true
+  },
+  {
     "id": 2300,
     "n": "The Big Scene",
     "a": 1
@@ -4842,6 +4920,26 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3165,
+    "n": "Tickling on the Wain",
+    "a": 1
+  },
+  {
+    "id": 3166,
+    "n": "Resounding Alpenhorns",
+    "a": 1
+  },
+  {
+    "id": 3167,
+    "n": "Festive Easter Tree",
+    "a": 1
+  },
+  {
+    "id": 3168,
+    "n": "Nurturing Life",
+    "a": 1
+  },
+  {
     "id": 3502,
     "n": "In Full Swing",
     "a": 1
@@ -5258,8 +5356,23 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 4111,
+    "n": "Cows Crossing",
+    "a": 1
+  },
+  {
     "id": 4120,
     "n": "Tiered Topiary",
+    "a": 1
+  },
+  {
+    "id": 4121,
+    "n": "Decorated Dromedaries",
+    "a": 1
+  },
+  {
+    "id": 4122,
+    "n": "Deer and Duckling",
     "a": 1
   },
   {
