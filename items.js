@@ -2802,6 +2802,84 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 1847,
+    "n": "Radiant Indoor Garden",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1848,
+    "n": "Fabulous Flora",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1849,
+    "n": "Lovely Landscaping",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1850,
+    "n": "Enticing Catnip",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1851,
+    "n": "Nature Lesson",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1852,
+    "n": "African Splendor",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1853,
+    "n": "Treetop Walk",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1854,
+    "n": "Flower Pool",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1855,
+    "n": "Flower Fountain",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1856,
+    "n": "Baby Tree",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1857,
+    "n": "Sidewalk Blossoms",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1858,
+    "n": "Blooming Plants",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 1859,
+    "n": "Pruning Day",
+    "a": 1,
+    "wip": true
+  },
+  {
     "id": 1900,
     "n": "Autumn Manor",
     "a": 1
@@ -3419,80 +3497,67 @@ const ITEMS = [
   {
     "id": 2227,
     "n": "Alpine Farmhouse",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2228,
     "n": "Water Delivery",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2229,
     "n": "Stable Pair",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2230,
     "n": "Meadow Beauty",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2231,
     "n": "Relaxing with Goats",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2232,
     "n": "Noriker Horses",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2233,
     "n": "Refreshing Waterfall",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2234,
     "n": "Shady Spruce Trees",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2235,
     "n": "Anatine Parade",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2236,
     "n": "Tree Trunk Fountain",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2237,
     "n": "Leafy Alpine Tree",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2238,
     "n": "Crocus Meadow",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2239,
     "n": "Stone Meadow Fence",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2300,
@@ -3968,6 +4033,84 @@ const ITEMS = [
     "id": 2613,
     "n": "Pleasant Path",
     "a": 1
+  },
+  {
+    "id": 2614,
+    "n": "Dreamy First Dance",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2615,
+    "n": "Champagne Fountain",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2616,
+    "n": "Melodies for Marriage",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2617,
+    "n": "Children's Table",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2618,
+    "n": "Bloom Bench",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2619,
+    "n": "Paired Dancing",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2620,
+    "n": "Swan Fountain",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2621,
+    "n": "Trees in Love",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2622,
+    "n": "Cordial Chitchat",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2623,
+    "n": "Treats on Wheels",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2624,
+    "n": "Canopied Bench Swing",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2625,
+    "n": "Kids' Circle Dance",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2626,
+    "n": "Curly Blossom Vase",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 2700,
@@ -4937,6 +5080,40 @@ const ITEMS = [
   {
     "id": 3168,
     "n": "Nurturing Life",
+    "a": 1
+  },
+  {
+    "id": 3169,
+    "n": "Leafy Shade",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3170,
+    "n": "Glowworm Grotto",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3171,
+    "n": "Golden Week",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3172,
+    "n": "Mother's Day",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3500,
+    "n": "Above the Law",
+    "a": 1
+  },
+  {
+    "id": 3501,
+    "n": "Distilled and Delivered",
     "a": 1
   },
   {
