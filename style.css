@@ -134,7 +134,7 @@ body {
 	left: 0;
 	background: var(--primary);
 	border-radius: 5px 5px 0 0;
-	padding: 5px;
+	padding: 4px 12px;
 	color: #f7ce25;
 }
 

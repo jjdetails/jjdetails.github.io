@@ -2804,80 +2804,67 @@ const ITEMS = [
   {
     "id": 1847,
     "n": "Radiant Indoor Garden",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1848,
     "n": "Fabulous Flora",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1849,
     "n": "Lovely Landscaping",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1850,
     "n": "Enticing Catnip",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1851,
     "n": "Nature Lesson",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1852,
     "n": "African Splendor",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1853,
     "n": "Treetop Walk",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1854,
     "n": "Flower Pool",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1855,
     "n": "Flower Fountain",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1856,
     "n": "Baby Tree",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1857,
     "n": "Sidewalk Blossoms",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1858,
     "n": "Blooming Plants",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1859,
     "n": "Pruning Day",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 1900,
@@ -5085,26 +5072,22 @@ const ITEMS = [
   {
     "id": 3169,
     "n": "Leafy Shade",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3170,
     "n": "Glowworm Grotto",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3171,
     "n": "Golden Week",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3172,
     "n": "Mother's Day",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3500,
@@ -5519,8 +5502,7 @@ const ITEMS = [
   {
     "id": 4108,
     "n": "Red Carpet Stardom",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 4109,
@@ -5536,6 +5518,29 @@ const ITEMS = [
     "id": 4111,
     "n": "Cows Crossing",
     "a": 1
+  },
+  {
+    "id": 4112,
+    "n": "Cart of Blooms",
+    "a": 1
+  },
+  {
+    "id": 4114,
+    "n": "Tickets to the West",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 4117,
+    "n": "Sinister Stagecoach",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 4119,
+    "n": "Gingerbread Cottage",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 4120,
