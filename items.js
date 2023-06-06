@@ -4024,80 +4024,67 @@ const ITEMS = [
   {
     "id": 2614,
     "n": "Dreamy First Dance",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2615,
     "n": "Champagne Fountain",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2616,
     "n": "Melodies for Marriage",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2617,
     "n": "Children's Table",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2618,
     "n": "Bloom Bench",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2619,
     "n": "Paired Dancing",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2620,
     "n": "Swan Fountain",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2621,
     "n": "Trees in Love",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2622,
     "n": "Cordial Chitchat",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2623,
     "n": "Treats on Wheels",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2624,
     "n": "Canopied Bench Swing",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2625,
     "n": "Kids' Circle Dance",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2626,
     "n": "Curly Blossom Vase",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2700,
@@ -5071,7 +5058,7 @@ const ITEMS = [
   },
   {
     "id": 3169,
-    "n": "Leafy Shade",
+    "n": "Umbrella Leaves",
     "a": 1
   },
   {
@@ -5087,6 +5074,51 @@ const ITEMS = [
   {
     "id": 3172,
     "n": "Mother's Day",
+    "a": 1
+  },
+  {
+    "id": 3173,
+    "n": "Tail-Waggin' Tango",
+    "a": 1
+  },
+  {
+    "id": 3174,
+    "n": "Lovey Dovey",
+    "a": 1
+  },
+  {
+    "id": 3175,
+    "n": "Bicycle Ride",
+    "a": 1
+  },
+  {
+    "id": 3176,
+    "n": "Festive Feast",
+    "a": 1
+  },
+  {
+    "id": 3177,
+    "n": "Well Read",
+    "a": 1
+  },
+  {
+    "id": 3182,
+    "n": "Horns of the Himalayas",
+    "a": 1
+  },
+  {
+    "id": 3183,
+    "n": "Magnificent Monals",
+    "a": 1
+  },
+  {
+    "id": 3184,
+    "n": "Mountain Mother",
+    "a": 1
+  },
+  {
+    "id": 3185,
+    "n": "Frosty Felines",
     "a": 1
   },
   {
@@ -5115,6 +5147,28 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3505,
+    "n": "Couple's Corner",
+    "a": 1
+  },
+  {
+    "id": 3506,
+    "n": "Amorous Adventure",
+    "a": 1
+  },
+  {
+    "id": 3507,
+    "n": "Statue Theft",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3508,
+    "n": "Sailing Away",
+    "a": 1,
+    "wip": true
+  },
+  {
     "id": 3901,
     "n": "Healthy Treats",
     "a": 1
@@ -5132,6 +5186,11 @@ const ITEMS = [
   {
     "id": 3904,
     "n": "Be-Mine Bench",
+    "a": 1
+  },
+  {
+    "id": 3905,
+    "n": "Cozy Koi Fish",
     "a": 1
   },
   {
@@ -5525,6 +5584,12 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 4113,
+    "n": "Happily Hitched",
+    "a": 1,
+    "wip": true
+  },
+  {
     "id": 4114,
     "n": "Tickets to the West",
     "a": 1,
@@ -5556,6 +5621,17 @@ const ITEMS = [
     "id": 4122,
     "n": "Deer and Duckling",
     "a": 1
+  },
+  {
+    "id": 4123,
+    "n": "Flourishing Florals",
+    "a": 1
+  },
+  {
+    "id": 4124,
+    "n": "Diamond Jubilee",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 5000,
