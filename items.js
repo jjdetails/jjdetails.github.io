@@ -5159,14 +5159,12 @@ const ITEMS = [
   {
     "id": 3507,
     "n": "Statue Theft",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3508,
     "n": "Sailing Away",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3901,
@@ -5586,12 +5584,16 @@ const ITEMS = [
   {
     "id": 4113,
     "n": "Happily Hitched",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 4114,
     "n": "Tickets to the West",
+    "a": 1
+  },
+  {
+    "id": 4115,
+    "n": "Gold Leaf Gondola",
     "a": 1,
     "wip": true
   },
@@ -5630,8 +5632,7 @@ const ITEMS = [
   {
     "id": 4124,
     "n": "Diamond Jubilee",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 5000,
