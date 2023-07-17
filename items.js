@@ -3952,6 +3952,71 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 2522,
+    "n": "Victorian Painted Lady",
+    "a": 1
+  },
+  {
+    "id": 2523,
+    "n": "Rascally Raccoons",
+    "a": 1
+  },
+  {
+    "id": 2524,
+    "n": "Music Shop",
+    "a": 1
+  },
+  {
+    "id": 2525,
+    "n": "Dairy Delivery",
+    "a": 1
+  },
+  {
+    "id": 2526,
+    "n": "Classic Diner",
+    "a": 1
+  },
+  {
+    "id": 2527,
+    "n": "Green Gables",
+    "a": 1
+  },
+  {
+    "id": 2528,
+    "n": "Backyard Splash",
+    "a": 1
+  },
+  {
+    "id": 2529,
+    "n": "Backyard BBQ",
+    "a": 1
+  },
+  {
+    "id": 2530,
+    "n": "Stained Glass Delivery",
+    "a": 1
+  },
+  {
+    "id": 2531,
+    "n": "Municipal Maintenance",
+    "a": 1
+  },
+  {
+    "id": 2532,
+    "n": "Ringed Lamp",
+    "a": 1
+  },
+  {
+    "id": 2533,
+    "n": "Orchid Town Sign",
+    "a": 1
+  },
+  {
+    "id": 2534,
+    "n": "Rose Picket Fence",
+    "a": 1
+  },
+  {
     "id": 2600,
     "n": "Veiled Vows",
     "a": 1
@@ -4155,6 +4220,84 @@ const ITEMS = [
     "id": 2713,
     "n": "Refreshing Fountain",
     "a": 1
+  },
+  {
+    "id": 2714,
+    "n": "Pretty Portici",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2715,
+    "n": "Kiosk Conversation",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2716,
+    "n": "Windy Walkway",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2717,
+    "n": "Sidewalk Serenade",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2718,
+    "n": "Fresh from the Village",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2719,
+    "n": "Floating Market",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2720,
+    "n": "Gondola Pier",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2721,
+    "n": "Vibrant Villa",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2722,
+    "n": "Wine Delivery",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2723,
+    "n": "Plenty of Pigeons",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2724,
+    "n": "Botanic Well",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2725,
+    "n": "Light of Venice",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2726,
+    "n": "Italian Stone Pine",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 2800,
@@ -5102,6 +5245,26 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3178,
+    "n": "Motor Excursion",
+    "a": 1
+  },
+  {
+    "id": 3179,
+    "n": "Poodle Paseo",
+    "a": 1
+  },
+  {
+    "id": 3180,
+    "n": "Sousa Spectacle",
+    "a": 1
+  },
+  {
+    "id": 3181,
+    "n": "Bountiful Buggy",
+    "a": 1
+  },
+  {
     "id": 3182,
     "n": "Horns of the Himalayas",
     "a": 1
@@ -5164,6 +5327,16 @@ const ITEMS = [
   {
     "id": 3508,
     "n": "Sailing Away",
+    "a": 1
+  },
+  {
+    "id": 3509,
+    "n": "Feuding Friends",
+    "a": 1
+  },
+  {
+    "id": 3510,
+    "n": "Divided Attention",
     "a": 1
   },
   {
@@ -5632,6 +5805,11 @@ const ITEMS = [
   {
     "id": 4124,
     "n": "Diamond Jubilee",
+    "a": 1
+  },
+  {
+    "id": 4125,
+    "n": "Cherry Pie Contest",
     "a": 1
   },
   {
