@@ -4224,80 +4224,67 @@ const ITEMS = [
   {
     "id": 2714,
     "n": "Pretty Portici",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2715,
     "n": "Kiosk Conversation",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2716,
     "n": "Windy Walkway",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2717,
     "n": "Sidewalk Serenade",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2718,
     "n": "Fresh from the Village",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2719,
     "n": "Floating Market",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2720,
     "n": "Gondola Pier",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2721,
     "n": "Vibrant Villa",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2722,
     "n": "Wine Delivery",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2723,
     "n": "Plenty of Pigeons",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2724,
     "n": "Botanic Well",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2725,
     "n": "Light of Venice",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2726,
     "n": "Italian Stone Pine",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2800,
@@ -4368,6 +4355,84 @@ const ITEMS = [
     "id": 2813,
     "n": "Tram Tracks",
     "a": 1
+  },
+  {
+    "id": 2814,
+    "n": "Spectacular City Gate",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2815,
+    "n": "Fairytale Well",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2816,
+    "n": "Bustling Bakery",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2817,
+    "n": "Befriending Squirrels",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2818,
+    "n": "Mountain Tunnel",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2819,
+    "n": "Wild Woods",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2820,
+    "n": "Timber-Frame Cottage",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2821,
+    "n": "Path Through Heather",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2822,
+    "n": "Watchful Wolf",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2823,
+    "n": "Coffee and Cake",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2824,
+    "n": "Beer Balancing Act",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2825,
+    "n": "Patient Pathfinding",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2826,
+    "n": "Stone Bridge",
+    "a": 1,
+    "wip": true
   },
   {
     "id": 3002,
@@ -5285,6 +5350,50 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3187,
+    "n": "Cormorant Corner",
+    "a": 1
+  },
+  {
+    "id": 3188,
+    "n": "Courtship on the Canals",
+    "a": 1
+  },
+  {
+    "id": 3189,
+    "n": "Pigeon Provisions",
+    "a": 1
+  },
+  {
+    "id": 3190,
+    "n": "Sleepy Sloths",
+    "a": 1
+  },
+  {
+    "id": 3192,
+    "n": "Oven-Fresh Loaves",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3193,
+    "n": "Wild Boar Chase",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3194,
+    "n": "Belligerent Goose",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3195,
+    "n": "Oktoberfest Dance",
+    "a": 1,
+    "wip": true
+  },
+  {
     "id": 3500,
     "n": "Above the Law",
     "a": 1
@@ -5340,6 +5449,16 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3511,
+    "n": "A Long Wait",
+    "a": 1
+  },
+  {
+    "id": 3512,
+    "n": "Proffered Prize",
+    "a": 1
+  },
+  {
     "id": 3901,
     "n": "Healthy Treats",
     "a": 1
@@ -5362,6 +5481,21 @@ const ITEMS = [
   {
     "id": 3905,
     "n": "Cozy Koi Fish",
+    "a": 1
+  },
+  {
+    "id": 3906,
+    "n": "Costume Design",
+    "a": 1
+  },
+  {
+    "id": 3907,
+    "n": "Magical Evening",
+    "a": 1
+  },
+  {
+    "id": 3908,
+    "n": "Highest Bid",
     "a": 1
   },
   {
@@ -5767,6 +5901,11 @@ const ITEMS = [
   {
     "id": 4115,
     "n": "Gold Leaf Gondola",
+    "a": 1
+  },
+  {
+    "id": 4116,
+    "n": "Sun and Sausages",
     "a": 1,
     "wip": true
   },
@@ -5810,6 +5949,11 @@ const ITEMS = [
   {
     "id": 4125,
     "n": "Cherry Pie Contest",
+    "a": 1
+  },
+  {
+    "id": 4126,
+    "n": "Pizza Proposal",
     "a": 1
   },
   {
