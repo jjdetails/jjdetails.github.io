@@ -4359,80 +4359,67 @@ const ITEMS = [
   {
     "id": 2814,
     "n": "Spectacular City Gate",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2815,
     "n": "Fairytale Well",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2816,
     "n": "Bustling Bakery",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2817,
     "n": "Befriending Squirrels",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2818,
     "n": "Mountain Tunnel",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2819,
     "n": "Wild Woods",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2820,
     "n": "Timber-Frame Cottage",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2821,
     "n": "Path Through Heather",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2822,
     "n": "Watchful Wolf",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2823,
     "n": "Coffee and Cake",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2824,
     "n": "Beer Balancing Act",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2825,
     "n": "Patient Pathfinding",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2826,
     "n": "Stone Bridge",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3002,
@@ -5372,26 +5359,22 @@ const ITEMS = [
   {
     "id": 3192,
     "n": "Oven-Fresh Loaves",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3193,
     "n": "Wild Boar Chase",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3194,
     "n": "Belligerent Goose",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3195,
     "n": "Oktoberfest Dance",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3500,
@@ -5456,6 +5439,16 @@ const ITEMS = [
   {
     "id": 3512,
     "n": "Proffered Prize",
+    "a": 1
+  },
+  {
+    "id": 3513,
+    "n": "Furry Lunch Date",
+    "a": 1
+  },
+  {
+    "id": 3514,
+    "n": "Books 'n' Blankets",
     "a": 1
   },
   {
@@ -5906,8 +5899,7 @@ const ITEMS = [
   {
     "id": 4116,
     "n": "Sun and Sausages",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 4117,
@@ -5954,6 +5946,11 @@ const ITEMS = [
   {
     "id": 4126,
     "n": "Pizza Proposal",
+    "a": 1
+  },
+  {
+    "id": 4127,
+    "n": "Merry Milk Run",
     "a": 1
   },
   {
