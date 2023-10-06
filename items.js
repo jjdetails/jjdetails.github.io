@@ -3062,6 +3062,76 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 1939,
+    "n": "Dreadful Domicile",
+    "a": 1
+  },
+  {
+    "id": 1940,
+    "n": "Pumpkin Prank",
+    "a": 1
+  },
+  {
+    "id": 1941,
+    "n": "Haunted Hearth",
+    "a": 1
+  },
+  {
+    "id": 1942,
+    "n": "All Dressed Up",
+    "a": 1
+  },
+  {
+    "id": 1943,
+    "n": "Good Luck Checking Out",
+    "a": 1
+  },
+  {
+    "id": 1944,
+    "n": "One Final Drive",
+    "a": 1
+  },
+  {
+    "id": 1945,
+    "n": "Creepy Crossing",
+    "a": 1
+  },
+  {
+    "id": 1946,
+    "n": "Frightening Foliage",
+    "a": 1
+  },
+  {
+    "id": 1947,
+    "n": "Witch on a Walk",
+    "a": 1
+  },
+  {
+    "id": 1948,
+    "n": "Scary Sculpture",
+    "a": 1
+  },
+  {
+    "id": 1949,
+    "n": "Perilous Postbox",
+    "a": 1
+  },
+  {
+    "id": 1950,
+    "n": "Gargantuan Gourds",
+    "a": 1
+  },
+  {
+    "id": 1951,
+    "n": "Golden Blades of Grass",
+    "a": 1
+  },
+  {
+    "id": 1952,
+    "n": "Watchful Gargoyle",
+    "a": 1
+  },
+  {
     "id": 2000,
     "n": "Warm Welcome",
     "a": 1
@@ -4422,6 +4492,84 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 2900,
+    "n": "Harvest Home",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2901,
+    "n": "Hook, Line, and Sinker",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2902,
+    "n": "Grand Gate",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2903,
+    "n": "A Family Hike",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2904,
+    "n": "Quaint Cabin",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2905,
+    "n": "Calm Crossing",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2906,
+    "n": "Lookout Point",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2907,
+    "n": "Fiery Foliage",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2908,
+    "n": "Foraging for Funghi",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2909,
+    "n": "Peaceful Pause",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2910,
+    "n": "Sly Fox",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2911,
+    "n": "Sturdy Stone",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 2912,
+    "n": "Autumn Leaves",
+    "a": 1,
+    "wip": true
+  },
+  {
     "id": 3002,
     "n": "Springtime Blooms",
     "a": 1
@@ -5377,6 +5525,60 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 3196,
+    "n": "Passel of Possums",
+    "a": 1
+  },
+  {
+    "id": 3197,
+    "n": "Spooktacular Sweets",
+    "a": 1
+  },
+  {
+    "id": 3198,
+    "n": "Making It Rain",
+    "a": 1
+  },
+  {
+    "id": 3199,
+    "n": "Feathers and Fortunes",
+    "a": 1
+  },
+  {
+    "id": 3200,
+    "n": "Healthy Horses",
+    "a": 1
+  },
+  {
+    "id": 3201,
+    "n": "Autumn's Bounty",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3202,
+    "n": "Playful Petting Zoo",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3203,
+    "n": "Frolic in the Foliage",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3204,
+    "n": "A Thankful Table",
+    "a": 1,
+    "wip": true
+  },
+  {
+    "id": 3209,
+    "n": "Strange Circumstances",
+    "a": 1
+  },
+  {
     "id": 3500,
     "n": "Above the Law",
     "a": 1
@@ -5904,8 +6106,7 @@ const ITEMS = [
   {
     "id": 4117,
     "n": "Sinister Stagecoach",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 4119,
