@@ -4493,81 +4493,68 @@ const ITEMS = [
   },
   {
     "id": 2900,
-    "n": "Harvest Home",
-    "a": 1,
-    "wip": true
+    "n": "Harvest Holiday",
+    "a": 1
   },
   {
     "id": 2901,
     "n": "Hook, Line, and Sinker",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2902,
     "n": "Grand Gate",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2903,
     "n": "A Family Hike",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2904,
     "n": "Quaint Cabin",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2905,
     "n": "Calm Crossing",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2906,
     "n": "Lookout Point",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2907,
     "n": "Fiery Foliage",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2908,
-    "n": "Foraging for Funghi",
-    "a": 1,
-    "wip": true
+    "n": "Foraging for Fungi",
+    "a": 1
   },
   {
     "id": 2909,
     "n": "Peaceful Pause",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2910,
     "n": "Sly Fox",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2911,
     "n": "Sturdy Stone",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 2912,
     "n": "Autumn Leaves",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3002,
@@ -5552,26 +5539,22 @@ const ITEMS = [
   {
     "id": 3201,
     "n": "Autumn's Bounty",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3202,
     "n": "Playful Petting Zoo",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3203,
     "n": "Frolic in the Foliage",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3204,
     "n": "A Thankful Table",
-    "a": 1,
-    "wip": true
+    "a": 1
   },
   {
     "id": 3209,
@@ -5651,6 +5634,16 @@ const ITEMS = [
   {
     "id": 3514,
     "n": "Books 'n' Blankets",
+    "a": 1
+  },
+  {
+    "id": 3700,
+    "n": "A Taverna Toast",
+    "a": 1
+  },
+  {
+    "id": 3701,
+    "n": "Hellenistic Temple",
     "a": 1
   },
   {
@@ -6109,6 +6102,11 @@ const ITEMS = [
     "a": 1
   },
   {
+    "id": 4118,
+    "n": "A Stream Experiment",
+    "a": 1
+  },
+  {
     "id": 4119,
     "n": "Gingerbread Cottage",
     "a": 1,
@@ -6152,6 +6150,16 @@ const ITEMS = [
   {
     "id": 4127,
     "n": "Merry Milk Run",
+    "a": 1
+  },
+  {
+    "id": 4128,
+    "n": "Trick or Trot",
+    "a": 1
+  },
+  {
+    "id": 4129,
+    "n": "Striving Salmon",
     "a": 1
   },
   {
