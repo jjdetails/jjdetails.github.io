@@ -14,11 +14,13 @@ scr.charset = "UTF-8"
 document.body.appendChild(scr);
 
 let content = "<div class=\"info-grid\">"
-
 content += "<div class=\"info-table\">"
-content += "<div class=\"category-title\">Items</div>"
 
 scr.onload = () => {
+	let table = document.querySelector('div.info-table')
+	
+	let content = "<div class=\"category-title\">Items</div>"
+	
 	for (let item of ITEMS) {
 		let cls = item.wip ? 'class="wip"' : ""
 		let n = TEXTS[item.n]
@@ -28,11 +30,12 @@ scr.onload = () => {
 			<span class='item-details'><span ${cls}>${n}</span></span>
 		</span>`
 	}
+	
+	table.innerHTML = content
 }
 
 content += "</div>" // end category
-
 content += "</div>" // end of info grid
-
 main.innerHTML = content
+
 })()
