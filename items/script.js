@@ -21,12 +21,15 @@ scr.onload = () => {
 	let content = "<div class=\"category-title\">Items</div>"
 	
 	for (let item of ITEMS) {
-		let cls = item.wip ? 'class="wip"' : ""
+		let cls = "item-name"
+		if (item.wip) { cls += " wip" }
+		cls = 'class="' + cls + '"'
 		let n = TEXTS[item.n]
 		if (!n) n = item.n
+		let sz = `${item.s}x${item.s}`
 		content += `<span>
 			<span class='item-img'><img src="/items/${item.id}.webp" loading="lazy"></span>
-			<span class='item-details'><span ${cls}>${n}</span></span>
+			<span class='item-details'><span ${cls}>${n}</span><span class="item-info"><span><i class="tle tiles"></i><span>${sz}</span></span><span><i class="tle flowers"></i><span>${item.f}</span></span></span></span>
 		</span>`
 	}
 	

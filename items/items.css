@@ -1,0 +1,22 @@
+.info-table .item-details {
+	flex-direction: row;
+	align-items: center;
+}
+.info-table .item-info {
+	display: flex;
+	flex-direction: column;
+	font-size: 16px;
+	text-align: center;
+	align-items: end;
+	width: 65px;
+}
+.info-table .item-info > span {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.info-table .item-info > span > span {
+	display: block;
+	height: 16px;
+}
