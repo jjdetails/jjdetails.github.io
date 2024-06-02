@@ -13,12 +13,17 @@ scr.charset = "UTF-8"
 document.body.appendChild(scr);
 
 let content = "<div class=\"info-grid\">"
+content += "<div class=\"category-title\">"
+content += "<span>Items</span>"
+content += "<input type=\"text\" id=\"itemsearch\" placeholder=\"Search for items...\">"
+content += "</div>"
+content += "<div class=\"category-title-bg\"></div>"
 content += "<div class=\"info-table\">"
 
 scr.onload = () => {
 	let table = document.querySelector('div.info-table')
-	
-	let content = "<div class=\"category-title\">Items</div>"
+
+	let content = ""
 	
 	for (let item of ITEMS) {
 		let cls = "item-name"
@@ -34,12 +39,69 @@ scr.onload = () => {
 	}
 	
 	table.innerHTML = content
+
+	const modal = document.createElement("div")
+	modal.classList.add("modal")
 	
-	// TODO: add modal to img
+	let span = document.createElement("span")
+	span.innerHTML = "&times;"
+	span.classList.add("modal-close")
+	
+	
+	
+	const modal_img = document.createElement("img")
+	modal_img.classList.add("modal-img")
+	
+	const modal_caption = document.createElement("div")
+	modal_caption.classList.add("modal-caption")
+	
+	modal.appendChild(span)
+	modal.appendChild(modal_img)
+	modal.appendChild(modal_caption)
+	
+	document.body.appendChild(modal)
+	
+	let images = table.getElementsByTagName('img')
+	
+	function openModal() {
+		modal.style.display = "block";
+		modal_img.src = this.src;
+		modal_caption.innerText = this.parentNode.parentNode.lastElementChild.firstChild.innerText
+	}
+	
+	for (let img of images) {
+		img.onclick = openModal
+	}
+	
+	modal.style.display = "none";
+	span.onclick = modal.onclick = function(evt) {
+		if (evt.target == this)
+			modal.style.display = "none";
+	}
+
+	var items = undefined
+	function setup_items() {
+		items = table.querySelectorAll('.info-table>span')
+		for (let item of items) {
+			item.name = item.querySelector("span.item-name").innerText.toLowerCase();
+		}
+	}
+	// TODO: search tags
+	const search = document.querySelector('input#itemsearch')
+	search.addEventListener("input", function() {
+		if (!items) setup_items()
+		let filter = this.value.toLowerCase()
+		for (let item of items) {
+			if (item.name.indexOf(filter) > -1) {
+				item.style.display = "";
+			} else {
+				item.style.display = "none";
+			}
+		}
+	});
 }
 
 content += "</div>" // end category
 content += "</div>" // end of info grid
 main.innerHTML = content
-
 })()
