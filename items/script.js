@@ -34,6 +34,8 @@ scr.onload = () => {
 	}
 	
 	table.innerHTML = content
+	
+	// TODO: add modal to img
 }
 
 content += "</div>" // end category
