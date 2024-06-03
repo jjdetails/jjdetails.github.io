@@ -14,14 +14,18 @@ document.body.appendChild(scr);
 
 let content = "<div class=\"info-grid\">"
 content += "<div class=\"category-title\">"
-content += "<span>Items</span>"
-content += "<input type=\"text\" id=\"itemsearch\" placeholder=\"Search for items...\">"
 content += "</div>"
 content += "<div class=\"category-title-bg\"></div>"
 content += "<div class=\"info-table\">"
 
 scr.onload = () => {
 	let table = document.querySelector('div.info-table')
+
+	let title = document.querySelector('div.category-title')
+	
+	let _tspan = document.createElement("span")
+	_tspan.innerText = TEXTS["text.deco"]
+	title.append(_tspan)
 
 	let content = ""
 	
@@ -87,7 +91,14 @@ scr.onload = () => {
 		}
 	}
 	// TODO: search tags
-	const search = document.querySelector('input#itemsearch')
+	const search = document.createElement('input')
+
+	search.placeholder = `${TEXTS["text.search"]}...`
+	search.id = 'itemsearch'
+	search.type = 'text'
+	
+	title.append(search)
+	
 	search.addEventListener("input", function() {
 		if (!items) setup_items()
 		let filter = this.value.toLowerCase()
