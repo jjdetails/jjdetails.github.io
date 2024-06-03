@@ -115,3 +115,6 @@
 .info-table {
 	margin-top: 11px;
 }
+.info-table > span {
+	max-width: 420px;
+}
