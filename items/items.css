@@ -28,7 +28,7 @@
 	display: none;
 	position: fixed;
 	z-index: 100;
-	padding-top: 50%;
+	padding-top: 50vh;
 	left: 0;
 	top: 0;
 	width: 100%;
