@@ -13,9 +13,13 @@ scr.charset = "UTF-8"
 document.body.appendChild(scr);
 
 let content = "<div class=\"info-grid\">"
+content += "<div class=\"grid-header\">"
 content += "<div class=\"category-title\">"
 content += "</div>"
-content += "<div class=\"category-title-bg\"></div>"
+content += "<div class=\"category-tabs\">"
+content += "</div>"
+content += "</div>"
+content += "<div class=\"grid-header-bg\"></div>"
 content += "<div class=\"info-table\">"
 
 scr.onload = () => {
@@ -37,7 +41,7 @@ scr.onload = () => {
 		if (!n) n = item.n
 		let sz = `${item.s}x${item.s}`
 		content += `<span>
-			<span class='item-img'><img src="/items/${item.id}.webp" loading="lazy"></span>
+			<span class='item-img'><img src="${item.id}.webp" loading="lazy"></span>
 			<span class='item-details'><span ${cls}>${n}</span><span class="item-info"><span><i class="tle tiles"></i><span>${sz}</span></span><span><i class="tle flowers"></i><span>${item.f}</span></span></span></span>
 		</span>`
 	}
