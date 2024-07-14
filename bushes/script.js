@@ -13,9 +13,13 @@ scr.charset = "UTF-8"
 document.body.appendChild(scr);
 
 let content = "<div class=\"info-grid\">"
+content += "<div class=\"grid-header\">"
 content += "<div class=\"category-title\">"
 content += "</div>"
-content += "<div class=\"category-title-bg\"></div>"
+content += "<div class=\"category-tabs\">"
+content += "</div>"
+content += "</div>"
+content += "<div class=\"grid-header-bg\"></div>"
 content += "<div class=\"info-table\">"
 
 scr.onload = () => {
