@@ -1,0 +1,31 @@
+.info-category > div > span {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 330px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+input {
+	border-radius: 5px;
+	border: 2px inset #00000047;
+	background: #00000033;
+	font-family: 'Solomon Sans', 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', sans-serif;
+	font-size: 18px;
+	color: #eee;
+	width: 120px;
+	margin: 2px;
+	text-align: center;
+	padding-left: 15px;
+}
+#lv-result {
+	border: 0;
+	background: transparent;
+}
+
+.holder {
+	min-width: unset;
+	max-width: unset;
+    margin: auto;
+    width: 368px;
+}
