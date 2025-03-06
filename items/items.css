@@ -134,3 +134,23 @@
 	height: 42px;
 	display: flex;
 }
+.category-buttons {
+	z-index: 10;
+	display: flex;
+	font-size: 20px;
+	justify-content: space-between;
+	line-height: 37px;
+	position: absolute;
+	right: 0;
+	background: var(--primary);
+	border-radius: 5px 5px 0 0;
+	padding: 4px 12px;
+	color: #f7ce25;
+}
+.category-buttons > .button {
+	background: #ffffff12;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-right: 5px;
+	border-radius: 6px;
+}
