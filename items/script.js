@@ -109,12 +109,21 @@ scr.onload = () => {
 	const modal_img = document.createElement("img")
 	modal_img.classList.add("modal-img")
 	
-	const modal_caption = document.createElement("div")
-	modal_caption.classList.add("modal-caption")
+	const modal_caption_cont = document.createElement("div")
+	modal_caption_cont.classList.add("modal-caption")
+	
+	const modal_caption = {
+		'title': document.createElement("span"),
+		'itemid': document.createElement("span")
+	}
+	modal_caption_cont.appendChild(modal_caption.title)
+	modal_caption_cont.appendChild(modal_caption.itemid)
+	modal_caption.title.classList.add("modal-title")
+	modal_caption.itemid.classList.add("modal-itemid")
 	
 	modal.appendChild(span)
 	modal.appendChild(modal_img)
-	modal.appendChild(modal_caption)
+	modal.appendChild(modal_caption_cont)
 	
 	document.body.appendChild(modal)
 	
@@ -123,7 +132,9 @@ scr.onload = () => {
 	function openModal() {
 		modal.style.display = "block";
 		modal_img.src = this.src;
-		modal_caption.innerText = this.parentNode.parentNode.lastElementChild.firstChild.innerText
+		const pp = this.parentNode.parentNode
+		modal_caption.title.innerText = pp.lastElementChild.firstChild.innerText
+		modal_caption.itemid.innerText = pp.itemid
 	}
 	
 	for (let img of images) {

@@ -45,7 +45,7 @@
 	transform: translateY(-50%);
 }
 .modal-caption {
-	display: block;
+	display: flex;
 	width: fit-content;
 	text-align: center;
 	color: #eee;
@@ -56,6 +56,12 @@
 	margin: auto;
 	left: 0;
 	right: 0;
+	align-content: center;
+	flex-direction: column;
+}
+.modal-itemid {
+	opacity: 0.7;
+	font-size: 16;
 }
 .modal {
 	animation-name: fade;
