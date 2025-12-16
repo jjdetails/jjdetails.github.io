@@ -159,7 +159,7 @@ scr.onload = () => {
 	search.addEventListener("input", function() {
 		let filter = this.value.toLowerCase()
 		for (let item of items) {
-			if (item.name.indexOf(filter) > -1 || item.itemid == filter) {
+			if (item.name.indexOf(filter) > -1 || item.itemid == filter || item.tags.includes(filter)) {
 				item.style.display = "";
 			} else {
 				item.style.display = "none";
