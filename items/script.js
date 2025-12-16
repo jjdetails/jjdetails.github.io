@@ -49,6 +49,7 @@ scr.onload = () => {
 		itm.name = n.toLowerCase()
 		itm.itemid = item.id
 		itm.flowers = item.f
+		itm.tags = item.tags
 			
 		return itm
 	}
@@ -159,7 +160,7 @@ scr.onload = () => {
 	search.addEventListener("input", function() {
 		let filter = this.value.toLowerCase()
 		for (let item of items) {
-			if (item.name.indexOf(filter) > -1 || item.itemid == filter || item.tags.includes(filter)) {
+			if (item.name.indexOf(filter) > -1 || item.itemid == filter || item.tags?.includes(filter)) {
 				item.style.display = "";
 			} else {
 				item.style.display = "none";
