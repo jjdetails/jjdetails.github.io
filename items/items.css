@@ -8,7 +8,19 @@
 	font-size: 16px;
 	text-align: center;
 	align-items: end;
-	width: 65px;
+	width: 80px;
+}
+.info-table .item-holder {
+	display: flex;
+	flex-direction: column;
+}
+.info-table .item-holder > .item-sub {
+	scale: 0.8;
+	color: #615245;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	width: 0%;
 }
 .info-table .item-info > span {
 	width: 100%;

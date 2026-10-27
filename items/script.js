@@ -43,9 +43,22 @@ scr.onload = () => {
 		if (!n) n = item.n
 		let sz = `${item.s}x${item.s}`
 		let itm = document.createElement('span')
+		
+		
+		var spcost;
+		if (item.c.coins) {
+			spcost = `<span><i class="tle coins"></i><span>${item.c.coins}</span></span>`
+		} else if (item.c.diamonds) {
+			spcost = `<span><i class="tle diamonds"></i><span>${item.c.diamonds}</span></span>`
+		} else {
+			spcost = `<span><i class="tle plant"></i><span>-</span></span>`
+		}
+		
+		//itm.innerHTML = `<span class='item-img'><img src="${item.id}.webp" loading="lazy"></span>
+		//	<span class='item-details'><span ${cls}>${n}</span><span class="item-info"><span><i class="tle tiles"></i><span>${sz}</span></span><span><i class="tle flowers"></i><span>${item.f}</span></span></span></span>`
 		itm.innerHTML = `<span class='item-img'><img src="${item.id}.webp" loading="lazy"></span>
-			<span class='item-details'><span ${cls}>${n}</span><span class="item-info"><span><i class="tle tiles"></i><span>${sz}</span></span><span><i class="tle flowers"></i><span>${item.f}</span></span></span></span>`
-			
+			<span class='item-details'><span class="item-holder"><span ${cls}>${n}</span><span class="item-sub"><i class="tle tiles"></i><span>${sz}</span></span></span><span class="item-info">${spcost}<span><i class="tle flowers"></i><span>${item.f}</span></span></span></span>`
+		
 		itm.name = n.toLowerCase()
 		itm.itemid = item.id
 		itm.flowers = item.f
